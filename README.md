@@ -10,5 +10,4 @@ route :
 -/delete/<id> = dibutuhkan postman dengan method delete dan membutuhkan 1 params id di urlnya untuk menghitnya
 -/update/<id> = menggunakan req body raw di postman untuk data baru dan params id untuk data yang inggin di ubah
 
-
-"Kalau ada kesalahan jangan di hina ya puh namanya juga pemula :)"
+*hanya untuk penanganan route saja*
